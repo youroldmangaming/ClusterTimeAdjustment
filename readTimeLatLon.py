@@ -1,4 +1,8 @@
-                                                                                                                                                                                                                              gps.py                                                                                                                                                                                                                                          import time
+#This program read a serial data stream via a GPS unit, and then chops it up into time/lat/lon.
+#The time is adjusted for day light saving.
+
+
+import time
 from datetime import datetime, timedelta
 import serial  # Ensure you have pyserial installed for serial communication
 
