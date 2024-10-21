@@ -1,5 +1,14 @@
 ### Overview of Your Configuration
 
+
+![image](https://github.com/user-attachments/assets/d62f14f1-cee0-49fa-95e2-0a007a27d9e8)
+
+
+![image](https://github.com/user-attachments/assets/b9c08bde-8816-474f-be6e-4d591dcb7107)
+
+
+
+
 1. **GPS Data Check**:
    - Running `sudo cat /dev/ttyS0` checks if the GPS device is sending data. This is a good first step to ensure the GPS is working properly.
 
